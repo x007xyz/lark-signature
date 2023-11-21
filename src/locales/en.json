@@ -1,0 +1,8 @@
+{
+  "clear": "Clear",
+  "save": "Save",
+  "warning_tips": "Please select a cell with the attachment type and save the signature.",
+  "success_tips": "Click Save to generate the signature.",
+  "cell_loading_tip": "Retrieving cell information...",
+  "generate_sign_tip": "Generating signature..."
+}

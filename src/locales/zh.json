@@ -1,0 +1,8 @@
+{
+  "clear":"清空",
+  "save": "保存",
+  "warning_tips": "请选择类型为附件的单元格，保存签名",
+  "success_tips": "点击保存生成签名",
+  "cell_loading_tip": "正在获取单元格信息……",
+  "generate_sign_tip": "正在生成签名……"
+}
